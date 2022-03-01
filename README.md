@@ -1,1 +1,1 @@
-# q04-CS363-ar06246-mu06166
+Our solution for Question #04 of Homework 02 - CS 363 | Networks and Collective Behavior.
